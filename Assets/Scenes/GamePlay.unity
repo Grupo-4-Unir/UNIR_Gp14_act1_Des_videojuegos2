@@ -3377,10 +3377,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Template_Cabin
       objectReference: {fileID: 0}
-    - target: {fileID: 1612965556047725544, guid: a9630796b4f3618488db99ecfb5c7838, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
